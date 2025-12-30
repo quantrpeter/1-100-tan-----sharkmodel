@@ -1,0 +1,21 @@
+Bergman 1-100 Churchill III & IV AVRE (Part 1)
+
+Please remember: CC BY-SA-NC license.
+
+
+Models included:
+
+Churchill III AVRE
+Churchill IV AVRE
+
+Churchill AVRE with fascine and fascine sled (SLA & simple versions)
+Churchill AVRE with SBG bridge (SLA & simple versions of both vehicle and bridge)
+
+Note that the SBG version needs to be mounted on a base, or else it will fall over.
+
+
+All vehicles printed sitting on their tracks.
+Turrets printed with gun horizontal.
+SBG sections printed flat (tilt it 5 degrees to get top deck horizontal.)
+Remove raft then clear out between tracks first.
+Facscine printed upright. Small fascines printed horizontal

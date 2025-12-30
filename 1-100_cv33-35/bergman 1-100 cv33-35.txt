@@ -1,0 +1,30 @@
+Bergman 1-100 cv33, cv35, Ansaldo 35M
+
+Please remember: CC BY-SA-NC license.
+
+
+cv33 (L3/33 serie I) one mg, idler support plate, mg tripod on rear deck.
+
+cv33 (L3/33 serie II) two mg
+cv33 command (L3/33 serie II) two mg, battry boxes
+cv33 20mm command (L3/33 serie II) 20mm AT gun modification, battry boxes
+
+cv35 (L3/35 serie II) two mg
+cv35 command (L3/35 serie II) two mg, battry boxes
+cv35 20mm command (L3/35 serie II) 20mm AT gun modification, battry boxes
+cv35 late (L3/35 serie II) two Breda mg
+cv35 late command (L3/35 serie II) two Breda mg, battry boxes
+
+cv35 LF (L3/35 serie II) Flamethrower, with fuel trailer
+
+cv35 mod (L3/38) two Breda mg, battry boxes, torsion bar suspension with 4 wheels per side
+
+Ansaldo 35M   Hungarian, two mg
+Ansaldo 35M command   Hungarian, two mg, cuppola
+Ansaldo 35M (W-mantlet)  Hungarian, two mg
+Ansaldo 35M command (W-mantlet)  Hungarian, two mg, cuppola
+
+Vehicles printed sitting on their tracks.
+Clear out between the tracks underneath the hull before removing the outside supports. 
+Tracks are delicate, especially on the 35-mod, so take that area slowly instead of just ripping everything off in one go.
+Suggest you cut down both sides beside MGs on the hull front before trying to release supports.

@@ -1,0 +1,27 @@
+Bergman 1-100 BA-3, BA-6, BA-10, BA-10M armoured cars
+
+Please remember: CC BY-SA-NC license.
+
+BA-3 & BA-6 are identical except for the door on the hull rear on the BA-3.
+BA-10M differs from BA-10 in having fuel tanks on the rear mudguards, and the spare track 
+shifted to the hull rear.
+
+BA-3 - no track       (use BA-6 turret)
+BA-3 - stowed track   (use BA-6 turret)
+BA-3 - fitted track   (use BA-6 turret)
+
+BA-6 - no track
+BA-6 - stowed track
+BA-6 - fitted track
+
+BA-10 - no track
+BA-10 - stowed track
+BA-10 - fitted track
+
+BA-10M - no track        (use BA-10 turret)
+BA-10M - stowed track    (use BA-10 turret)
+BA-10M - fitted track    (use BA-10 turret)
+
+Vehicles printed sitting on their wheels, turrets printed with gun horizontal.
+Contrary to usual practice, clear the supports from the outsides of the wheels first. 
+Take care around the front bumper.

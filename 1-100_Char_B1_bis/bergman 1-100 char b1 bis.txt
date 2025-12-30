@@ -1,0 +1,16 @@
+Bergman 1-100 Char B1 / Char B1 bis family
+
+Please remember: CC BY-SA-NC license.
+
+Char B1              (different turret, short 47mm gun, tow hook)
+Char B1 bis          (revised engine deck, different turret with longer 47mm gun)
+Pzkpfw B-2 740(f)    Char B1 bis in German service. (Different tool layout, jacks, aerial mounts) also with optional German-modified cupola on turret.
+Flammwagen auf Pzkpfw B-2(f) early     Initial version flamethrower vehicle. Served on Eastern front only. (Small flame turret as per Pzkpfw II Flamm)
+Flammwagen auf Pzkpfw B-2(f)           Second version flamethrower vehicle. Served on Western front only. (Big visor, large fuel tank on rear hull)
+10.5cm leFH18/3 auf GW B-2(f)          105mm howitzer conversion of Char B1 bis. (Howitzer is a seperate part)
+
+All vehicles except the Char B1 have an option of chains hanging on the rear plate.
+All of the above vehicles have a simple version, which fills in under the trackguards for ease of cleanup.
+
+
+All models printed sitting on their tracks. Main guns printed with gun barrels horizontal, in the same orientation as the hulls.
