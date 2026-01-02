@@ -1,0 +1,22 @@
+Bergman 1-100 Autocarro S-37 Protetto, Breda 35 20mmAA, Cannone da 47/32 & LeIG-18
+
+Please remember: CC BY-SA-NC license.
+
+Autocarro S-37 Protetto
+
+LeIG-18
+Breda 35 20mmAA (towed & deployed)
+Cannone da 47/32 (towed & deployed)
+
+variants included:
+Autocarro S-37 Protetto (with spare wheel, with shields, with weapon-mounting rod)
+
+LeIG-18 (pneumatic and wooden spoked wheels) Also simple versions.
+Breda 35 20mmAA FOW-style base (with recesses & plain), minimum sized rectangular base, no baseplate (or wheels). Also simple versions.
+Cannone da 47/32 FOW-style base (with recesses & plain), minimum sized rectangular base, no baseplate (or wheels). Also simple versions.
+
+Vehicles printed sitting on their wheels, guns printed with gun horizontal.
+Contrary to usual practice, clear the supports from the outsides of the wheels first. 
+Cut down on each side of the Breda sight frame before pulling off the supports.
+
+Bread 20mm simple is intended for modifying existing vehicles to flak configuration by gluing it onto the vehicle's bed.

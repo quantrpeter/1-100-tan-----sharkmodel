@@ -1,0 +1,28 @@
+Bergman 1-100 M3 Stuart family
+
+M2A4
+M2A4 (diesel engine)
+
+M3 early 
+M3 early (diesel engine)
+M3 early UK with sandshields
+M3 mid 
+M3 mid (diesel engine)
+M3 mid UK with sandshields
+M3 mid UK
+M3 hybrid - use M3 mid UK hull & M3A1 turret
+M3 late 
+M3 late (no mg in sponsons)
+M3 late (no mg in sponsons) (diesel engine)
+M3A1 early - use M3 late hull & M3A1 turret
+M3A1 late 
+M3A1 late (no mg in sponsons)
+M3A1 late with jettisonable tanks
+M3A1 late (no mg in sponsons) with jettisonable tanks
+M3A3
+M3A3 with sandshields
+
+M3 mid recce
+M3 mid recce with sandshields
+M3A3 recce
+M3A3 recce with sandshields

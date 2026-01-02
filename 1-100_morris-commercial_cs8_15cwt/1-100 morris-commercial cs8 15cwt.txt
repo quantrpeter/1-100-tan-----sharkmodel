@@ -1,0 +1,24 @@
+Bergman 1-100 Morris-Commercial CS8 (Early)
+
+Please remember: CC BY-SA-NC license.
+
+
+Morris-Commercial CS8  15cwt 4x2 GS (early version with soft-top cab, aero windows and cloth doors.)
+
+Other versions are currently ignored in the interests of clearing my backlog.
+
+Models provided for:
+*doors rolled up ("door open")
+*doors closed ("door closed")
+*doors closed simplified ("door closed simple") intended for use with cab roof, filling in tricky to clear places that you can't see with the cab in place anyway.
+*No rear tilt
+*Rear tilt raised ("roof closed")
+*Cab roof with tie-down straps
+*simple cab roof with no straps
+*An SLA-only doors open, roof closed, cab version in one piece, with a few extra details on the cab.
+
+All vehicles printed sitting on their wheels.
+Remove raft then clear out wheels from the outside first. You may need to cut gently underneath the guards to free the support. Be very careful around the radiator detail. Take it slowly and it should be fine. Clear the holes under the front guards last of all.
+Note that with the doors closed, clearing out the cab can be a pain, especially if you don't minimise supports. I'd suggest that for FDM, you are better to use the door-simple, or just door-open.
+The cab roof prints very easily (and quickly) if you rotate it to sit on its back face.
+The one with straps is not too hard to clean up, and once glued down is much stronger than the strapless one. (obviously for the roof-closed version this is irrelevant.)

@@ -1,0 +1,57 @@
+Bergman 1-100 WACO Hadrian CG-4 & Airborne Jeep
+
+Please remember: CC BY-SA-NC license.
+
+WACO Hadrian CG-4 (in flight)
+WACO Hadrian CG-4 (landed) with optional open/closed nose and optional broken wings
+
+Airborne Jeep
+Airborne Jeep with radio
+Airborne Jeep - Recon (optional Vickers K gun)
+Airborne Jeep - Recon with radio (optional Vickers K gun)
+
+WACO Hadrian CG-4 (in flight)  Use:
+hadrian landing gear LH 2
+hadrian landing gear RH 2
+hadrian wing brace LH 2
+hadrian wing brace RH 2
+hadrian wing LH 6
+hadrian wing RH 6
+hadrian 14 body (one piece entire fuselage) *OR* hadrian 14 bodytemp + hadrian 14 tailtemp + hadrian 14 nosetemp closed
+
+WACO Hadrian CG-4 (landed)  Use:
+hadrian 14 bodytemp
+hadrian 14 tailtemp
+hadrian 14 nosetemp open *OR* hadrian 14 nosetemp closed
+hadrian landing gear collapsed LH 2
+hadrian landing gear collapsed RH 2
+hadrian wing brace LH 2
+hadrian wing brace RH 2
+hadrian wing LH 6 *OR* hadrian wing LH broken 6 & hadrian wing LH broken tip 6
+hadrian wing RH 6 *OR* hadrian wing RH broken 6 & hadrian wing RH broken tip 6
+Glue a piece of (preferably transparent) dia. 1.75 filament onto the bottom of hadrian 14 bodytemp, near the tail joint,
+and trim the length until the glider sits on its skids & wheels
+
+Use whatever orientation seems best to you, except:
+Suggest you print the wings flat (rotate them 2 degrees from default position to get them flat.)
+Print wing braces flat for maximum strength.
+
+The testers used a variety of orientations, in 1:100 and 1:56, and they all came out fine.
+
+Vehicles printed sitting on their wheels.
+Cut down on each side of the MG before pulling off the supports.
+
+A big thank-you to the people who tested this model:
+
+1:56
+Kpi1986
+
+1:100
+fozzybear
+Jeremycon
+Kpi1986
+UMRS
+
+
+
+

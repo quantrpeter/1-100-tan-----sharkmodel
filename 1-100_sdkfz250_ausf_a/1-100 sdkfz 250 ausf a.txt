@@ -1,0 +1,30 @@
+Bergman 1-100 Sdkfz 250 Ausf A family (Part 1)
+
+Please remember: CC BY-SA-NC license.
+
+For all versions, there is an optional AA-mg arm mount (empty) and an optional AA-Mg on arm mount.
+(Can also be glued onto any sdkfz 250/B or sdkfz 251 if required.)
+
+Sdkfz 250/1 Ausf A  ( standard vehicle )         (with/without side bin, with/without mg, with/without mg shield)
+Sdkfz 250/3 Ausf A  ( command vehicle )          (with/without side bin, with/without mg)
+Sdkfz 250/5 Ausf A  ( observation post vehicle ) (with/without side bin, with/without mg)
+Sdkfz 250/5 Ausf A  ( support vehicle, 37mm )    (with/without side bin)
+
+
+All vehicles printed sitting on their tracks.
+37mm gun printed sitting on its pivot peg, with gun barrel horizontal. AA-mg and aa arm printed sitting on their sides.
+AA arm is very small, and your software may decide it's in inches instead of mm (and it'll be really big.) 
+If this happens, scale the arm by 1/25.4, ie scale by x0.03937 (3.937%)
+
+There are two versions of the frame aerial. 
+The one called "folded" is designed for ABS, and the intention is to carefully fold down the arms after printing, and glue the legs into the recesses on hte vehicle. This worked well for me. I afterwards added a tiny blob of glue on each hinge to help strengthen it. I don't know if this will work with PLA.
+The aerial called "erect" has the legs down into their correct position already.
+
+Clear out between the tracks first. There is often a bridge across the top of the tow-hook. Make sure this is gone before clearing off the underside. Leave the mg/inside until last, so that the support protects it until you're finished.
+
+I printed these with support angle of 60 degrees, which worked well with minimal support inside the vehicle.
+
+
+
+
+

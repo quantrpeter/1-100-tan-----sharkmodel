@@ -1,0 +1,20 @@
+Bergman 1-100 Valentine Scissors Bridgelayer
+
+
+Please remember: CC BY-SA-NC license.
+
+30' Scissors bridge carried on a modified Valentine II or III tank. A very successful combination.
+Bridge weight capacity 30T. Time to launch bridge was 2 1/2 minutes.
+
+Valentine Bridgelayer (choice of sand shields/no shields) (Choice of travel configuration or half-deployed.)
+30' Scissors bridge. In two pieces, clips together and can fold.
+
+There are assembled SLA versions which have the elevation gear in place. Bridge is still seperate.
+For FDM, there are two versions of the elevation gear:
+"Cutouts" has some infill of the ribs with big oval holes for better appearance. This is my recomendation.
+"FDM" has solid sideways ribs for ease of printing.
+
+
+All vehicles printed sitting on their tracks.
+Bridge sections printed sitting on their bottoms.
+Elevation gear printed on its side.

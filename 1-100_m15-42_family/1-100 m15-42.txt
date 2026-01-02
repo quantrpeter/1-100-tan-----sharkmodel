@@ -1,0 +1,18 @@
+Bergman 1-100 M42 family
+
+Please remember: CC BY-SA-NC license.
+
+M15-42 and related designs. German-production vehicles should have the sprocket guides.
+
+M15-42                 (with/without sprocket guides)  47mm gun
+M15-42 Centro Radio    (with/without sprocket guides)  47mm gun, blanked-off hull mg, extra aerial
+
+M42 Carro Commando     (with/without sprocket guides)  13mm MG
+
+M42 Semovente 75 L18   (with/without sprocket guides, jerrycan straps)  short 75mm gun
+M42 Semovente 75 L34   (with/without sprocket guides)  long 75mm gun
+
+
+All vehicles printed sitting on their tracks.
+All turrets printed with gun barrels horizontal.
+Clean out between tracks underneath first (cut down beside inside of tracks), or else you'll have real trouble clearing around the wheels.

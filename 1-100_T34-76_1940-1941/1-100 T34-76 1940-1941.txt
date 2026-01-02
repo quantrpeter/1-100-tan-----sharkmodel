@@ -1,0 +1,44 @@
+Bergman 1-100 T-34-76 (1940-1941 versions)
+
+Please remember: CC BY-SA-NC license.
+
+
+
+T-34-76 model 1940 & model 1941
+
+This covers all of the early 76mm versions with the "flat" cast and welded turrets.
+(1942 & Hex turret versions to follow in seperate pack due to file-size issues. And yes, I'll probably revisit the T-34-85 soon as well.)
+
+All factory-183 vehicles have the option of no fuel/ 4x box fuel tanks/ 10x box fuel tanks.
+All STZ vehicles have no fuel tanks.
+1940 vehicles have the option of 1940 welded or cast turrets.
+1941 vehicles have the option of 1941 welded or cast turrets.
+STZ vehicles can use either STZ or factory-183 1941 turrets.
+
+* T-34-76 factory-183 1940 mid (L-11 gun, early hull front, early driver's hatch, 2 headlights, early intakes, early transmission hatch, early mudguards, plain hull, no boxes on mudguards, early idler/sprocket, early mg mount.)
+* T-34-76 factory-183 1940 late (L-11 gun, early hull front, early driver's hatch, 2 headlights, early intakes, early transmission hatch, early mudguards, tiedowns on the hull, early idler/sprocket, early mg mount.)
+
+* T-34-76 factory-183 1941 late (F-34 gun, early hull front, late driver's hatch, 1 headlight, late intakes, early transmission hatch, late mudguards, tiedowns on the  hull,boxes & track on mudguards, late idler/sprocket, early mg mount.)
+* T-34-76 factory-183 1941 end (F-34 gun, cast steel wheels, late hull front, late driver's hatch, 1 headlight, late intakes, early transmission hatch, late mudguards, tiedowns on the hull,boxes & track on mudguards, late idler/sprocket, early mg mount.)
+* T-34-76 factory-183 1941 late no mudguards (F-34 gun, early hull front, early driver's hatch, 1 headlight, early intakes, early transmission hatch, no mudguards, tiedowns on the hull, early idler/sprocket, early mg mount.)
+
+* T-34-57 factory-183 1941 late 57mm no mudguards (ZIS-2 gun, early hull front, late driver's hatch, 2 headlights, late intakes, early transmission hatch, no mudguards, tiedowns on the hull, early idler/sprocket, early mg mount.)
+
+* OT-34-76 factory-183 1941   1940 vehicle rebuilt as flamethrower (F-34 gun, early hull front, early driver's hatch, 2 headlights, early intakes, early transmission hatch, early mudguards, tiedowns on the hull, early idler/sprocket, flamethrower.) (Note that turret can be used on any 1940/1941 hull as for an updated machine.)
+
+* T-34-76 factory-stz 1941 mid (F-34 gun, STZ turret, STZ rounded rear hull, cast steel wheels, late hull front, early driver's hatch, 1 headlight, late intakes, early transmission hatch, late mudguards, tiedowns on the hull,boxes on mudguards, late idler/sprocket, early mg mount.)
+* T-34-76 factory-stz 1941 late (F-34 gun, STZ turret, STZ rounded rear hull, cast steel wheels, late hull front, late driver's hatch, 1 headlight, late intakes, early transmission hatch, late mudguards, plain hull,boxes on mudguards, late idler/sprocket, early mg mount.)
+* T-34-76 factory-stz 1941 late no-mudguards (F-34 gun, STZ turret, STZ rounded rear hull, cast steel wheels, late hull front, late driver's hatch, 1 headlight, late intakes, early transmission hatch, no mudguards, plain hull, late idler/sprocket, early mg mount.)
+
+
+
+All vehicles printed sitting on their tracks.
+All turrets printed in correct orientation.
+
+
+Remove raft then clear out tracks from the inside first. 
+The tracks are deep, so you will need to cut gently underneath the body edge/mudguard to free the support - watch out for the mud flaps. Cut in towards the centre of the vehicle, not outwards.
+
+Without my copy of T-34 Mythical Weapon this detailed pack would have been impossible. A strangely edited book, but invaluable for the modeller.
+
+

@@ -1,0 +1,14 @@
+Bergman 1-100 Ostwind
+
+Please remember: CC BY-SA-NC license.
+
+
+Ostwind on rebuilt Ausf H chassis
+Ostwind on Ausf J (Late) chassis
+
+
+All vehicles printed sitting on their tracks.
+Gun printed with barrel horizontal.
+Turret printed in correct orientation. 
+If supports are kept to 60deg, supports inside turret will be minimal.
+Gun pushed in while vertical, the rotated to lock it. You may have to adjust the lug a little.

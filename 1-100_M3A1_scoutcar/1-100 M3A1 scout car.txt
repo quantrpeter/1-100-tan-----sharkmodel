@@ -1,0 +1,24 @@
+Bergman 1-100 M3A1 Scout Car
+
+Please remember: CC BY-SA-NC license.
+
+American Scout car, used by almost all Allied nations. Russian vehicles sometimes had roller removed.
+
+
+Models included:
+
+M3A1 early    (No fuel cans, spotlights) with/without aerial hole, open/closed.
+M3A1          with/without aerial hole, open/closed, with/without roller.
+M3A1 late     ( blackout light) with/without aerial hole, open/closed.
+
+I've included a raised-screws version of everything, although I prefer the smooth look myself.
+
+Aerial mast glues into aerial hole. (aerial points forwards.)
+.50 cal hmg and .30 cal Mg (air-cooled for mid/late, watercooled for early) glue onto skate rail as desired.
+Most common weapons fit 1x HMG and 1-2x MG
+
+
+All vehicles printed sitting on their wheels.
+Guns printed with gun horizontal, but might be easier printed on their side.
+Remove raft then clear out wheels from outside first.
+Aerial hole may need opening up.

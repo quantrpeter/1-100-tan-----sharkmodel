@@ -1,0 +1,28 @@
+Please remember: CC BY-SA-NC license
+
+Bergman 1-100 Jeep
+
+Jeep 
+Jeep with driver
+Jeep with window up
+Jeep with window up and driver
+
+Jeep  ( .50cal MG) 
+Jeep  ( .50cal MG) with driver
+Jeep  ( .50cal MG) with window up
+Jeep  ( .50cal MG) with window up and driver
+
+Jeep  ( .30cal MG) 
+Jeep  ( .30cal MG) with driver
+Jeep  ( .30cal MG) with window up
+Jeep  ( .30cal MG) with window up and driver
+
+Jeep closed, with driver   ("alt simple")
+Jeep closed, with side skirts   ("solid")
+Jeep closed, with side skirts and driver   ("simple")
+Jeep closed, with side skirts and driver, partly hollow inside  ("closed")
+Jeep closed, with side skirts and driver, more hollow inside, only suitable for SLS or masochists ("SLS")
+
+MGs are designed to be printed on their sides.
+ie: with side of mg and side of long post on table, and ammo box sticking up into the air.
+In this orientation they are quite strong, and easy to remove. In any other orientation, you'll be lucky to even print them.

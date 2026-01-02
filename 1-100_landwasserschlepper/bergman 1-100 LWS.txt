@@ -1,0 +1,15 @@
+Please remember: CC BY-SA-NC license
+
+Bergman 1-100 Landwasserschlepper (LWS)
+
+LWS mid production (3 return rollers, diagonal springs)
+LWS late production (4 return rollers, horizontal springs)
+LWS late production waterline
+LWS late production waterline low (lower in water)
+
+The waterline model has 3 shells for some reason, and I can't figure out how to reduce them. 
+Netfabb says it's a valid mesh.
+The UP software says it's an unsolid model, but still prints it happily.
+
+If your software has a problem with it, use the "waterline low" model, which is a valid solid mesh.
+(It's only 1mm lower, so it isn't too obvious.)

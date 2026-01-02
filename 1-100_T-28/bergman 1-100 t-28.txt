@@ -1,0 +1,40 @@
+Bergman 1-100 T-28 family
+
+Please remember: CC BY-SA-NC license.
+
+T-28 Early (m1936)   top-opening fan grille, 1-hatch turret
+T-28 Mid (m1938)     side opening fan grille, 2-hatch turret
+T-28 Late (m1939)    Longer gun, MG on turrret rear, different side bins
+T-28 Late uparmoured (m1940)      Applique armour, longer gun, MG on turrret rear, different side bins
+
+Variants:
+
+T-28 Early (m1936)   with early turret & frame aerial, with side rack
+T-28 Early (m1936)   with early turret & frame aerial
+T-28 Early (m1936)   with early turret, with side rack
+T-28 Early (m1936)   with early turret
+
+T-28 Mid (m1938)     with early turret & frame aerial, with side rack
+T-28 Mid (m1938)     with early turret & frame aerial
+T-28 Mid (m1938)     with early turret, with side rack
+T-28 Mid (m1938)     with early turret
+T-28 Mid (m1938)     with mid turret & frame aerial, with side rack
+T-28 Mid (m1938)     with mid turret & frame aerial
+T-28 Mid (m1938)     with mid turret, with side rack
+T-28 Mid (m1938)     with mid turret
+T-28 Mid (m1938)     with sloped turret, with side rack
+T-28 Mid (m1938)     with sloped turret
+
+T-28 Late (m1939)    with late turret, with tow cables
+T-28 Late (m1939)    with late turret & searchlights, with tow cables
+T-28 Late (m1939)    with late turret
+T-28 Late (m1939)    with late turret & searchlights
+
+T-28 Late uparmoured (m1940)    with late turret, with tow cables
+T-28 Late uparmoured (m1940)    with late turret & searchlights, with tow cables
+T-28 Late uparmoured (m1940)    with late turret
+T-28 Late uparmoured (m1940)    with late turret & searchlights
+
+All vehicles printed sitting on their tracks, all turrets printed with the guns horizontal to the print bed.
+Clear out between inside of tracks, underneath, first.
+Early turret with frame aerial, make sure you break any loops of support looping around aerial before removing supports.

@@ -1,0 +1,21 @@
+Bergman 1-100 IS-2
+
+Please remember: CC BY-SA-NC license.
+
+IS-1  (with/without 4 jettison tanks)  85mm gun
+
+IS-2 "broken nose" early  (with/without 4 jettison tanks, 6 tracklinks)  122mm gun with narrow mantlet
+IS-2 "broken nose"        (with/without 4 jettison tanks, 6 tracklinks)  122mm gun with wide mantlet
+
+IS-2 mid  (with/without 4 jettison tanks, log, 6 tracklinks, short/full guards)  122mm gun with wide mantlet
+
+IS-2 late  (with/without 4 jettison tanks, log, 4 tracklinks, short/full guards, AA MG)  122mm gun with wide, notched mantlet, scalloped cupola
+
+IS-2M  (with/without log, AA MG)  reshaped hull, full guards
+
+
+I'm using IS-2M (capital M) to refer to the postwar rebuilds, and I'm using IS-2 late to refer to IS-2m (small M), to avoid confusion.
+
+All vehicles printed sitting on their tracks.
+All turrets printed with gun barrels horizontal.
+Clean out between tracks underneath first (cut down beside inside of tracks), or else you'll have real trouble clearing around the wheels.

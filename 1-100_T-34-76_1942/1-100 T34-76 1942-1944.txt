@@ -1,0 +1,51 @@
+Bergman 1-100 T-34-76 (1942-1944 versions)
+
+Please remember: CC BY-SA-NC license.
+
+
+
+T-34-76 model 1942, model 1943 & model 1944
+
+This covers all of the late 76mm versions with the "Hex" turrets, plus some "flat" cast and welded turrets.
+
+
+All 1944 vehicles have the option of smokescreen oil tanks on the hull rear.
+All STZ vehicles have no fuel tanks.
+All vehicles can use either their named or factory-UZTM turrets. (UZTM only made turrets.)
+There is obviously scope for further mix-and-match pairings.
+
+* T34-76 factory-183 1942 early (cast steel wheels, 1 headlight on hull side, plain hull, early mg mount. Early Hex turret.)
+* T34-76 factory-183 1942 mid   (Outer original wheels, centre cast steel wheels, 1 headlight on hull side, plain hull, late mg mount. Early Hex turret.)
+* T34-76 factory-183 1942 late  (Outer half-spider wheels, centre cast steel wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, rear box fuel tanks. Hex turret with handrails.)
+* T34-76 factory-183 1943 early (Outer half-spider wheels, centre cast steel wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, 3x side round fuel tanks. Stamped turret with handrails.)
+* T34-76 factory-183 1943 late  (Original wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, 3x side round fuel tanks. Stamped turret with handrails.)
+* T34-76 factory-183 1944 early (Original wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, 3x side round fuel tanks. Hex turret with cupola and handrails.)
+
+* T34-76 factory-112 1942 early (Original wheels, 1 headlight on hull front, plain hull, early mg mount. Cast Flat turret.)
+* T34-76 factory-112 1942 late  (Original wheels, 1 headlight on hull front, handrails, late mg mount. Cast Flat turret with handrails.)
+* T34-76 factory-112 1943 early (Original wheels, 1 headlight on hull front, handrails, late mg mount, rear box fuel tanks. Cast Flat turret with handrails.)
+* T34-76 factory-112 1944 early (Original wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, track on hull front, 3x side round fuel tanks (Factory-112 layout). Hex turret with cupola and handrails.)
+
+OT-34-76 were created from refitted older vehicles returned to Factory-112, so other turret combinations are possible (and likely).
+
+* OT34-76 factory-112 1942 (Original wheels, 1 headlight on hull front, plain hull. Cast Flat turret.)
+* OT34-76 factory-112 1943 (Original wheels, 1 headlight on hull front, handrails, deflector strip, rear box fuel tanks. Hex turret with handrails.)
+* OT34-76 factory-112 1944 (Original wheels, 1 headlight on hull side, handrails, deflector strip, late mg mount, track on hull front, 2x side round fuel tanks. Hex turret with cupola and handrails.)
+
+Factory-STZ vehicles have unique rounded rear hull edge. STZ turrets can only be used with STZ hulls, but other turrets (esp. UZTM) can be used.
+
+* T34-76 factory-stz 1942 early (cast steel wheels, 1 headlight on hull front, plain hull, early mg mount. Early STZ Flat turret.)
+* T34-76 factory-stz 1942 mid   (cast steel wheels, 1 headlight on hull front, plain hull, early mg mount. STZ Flat turret.)  **Use factory-112 early hull.**
+
+
+
+All vehicles printed sitting on their tracks.
+All turrets printed in correct orientation.
+
+
+Remove raft then clear out tracks from the inside first. 
+The tracks are deep, so you will need to cut gently underneath the body edge/mudguard to free the support - watch out for the mud flaps. Cut in towards the centre of the vehicle, not outwards.
+
+Without my copy of T-34 Mythical Weapon this detailed pack would have been impossible. A strangely edited book, but invaluable for the modeller.
+
+

@@ -1,0 +1,30 @@
+Bergman 1-100 Ford V3000 and Ford V3000 Maultier
+
+Please remember: CC BY-SA-NC license.
+
+Ford V3000 Maultier was a Maultier modification of the Ford V3000 4x2 truck, and was by far the most common Maultier version.
+
+Versions included:
+
+Ford V3000          (Early)  Rounded mudguards.
+Ford V3000          (Mid)    Flat mudguards.
+Ford V3000          (Late)   Flat mudguards, Einheits cab, no fuel can.
+
+Ford V3000 Maultier (Early)  Rounded mudguards.
+Ford V3000 Maultier (Mid)    Flat mudguards.
+Ford V3000 Maultier (Late)   Flat mudguards, Einheits cab, no fuel can.
+
+All versions available with these body styles:
+Low sides
+Extended sides
+Extended sides with stored tilt rods (recommend SLA only)
+Tilt erected
+Radio body
+Ambulance body
+
+All Maultier versions include a Flak 38 version
+
+Simple Maultier versions included, which fill in under the tray bed to ease support removal. For FDM users, these versions are much easier to clean up.
+
+All models printed sitting on their wheels.
+Take care around the front bumpers. As always with these wheeled vehicles, clear out the wheels from the outside first. For the maultiers, clear out between the tracks first (cut down) because the running gear is a bit delicate.

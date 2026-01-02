@@ -1,0 +1,50 @@
+Bergman 1-100 Horch 108, Horch 108A, Stery 1500 & Flak 38
+
+Please remember: CC BY-SA-NC license.
+
+Horch 108 - initial version with external (freewheeling) spare wheels.
+Horch 108A - late version with internal spare wheels.
+Steyr 1500 - cheaper replacement for Horch.
+Steyr 1500 Kommandeurwagen - command car.
+Flak38
+Flak38 with shields
+Flak38 trailer (Sd.Ah. 51), loaded and unloaded
+
+variants included:
+Horch 108 
+Horch 108 (window up)
+Horch 108 (all windows up)
+Horch 108 (closed)
+Horch 108 with zwillinglafette 38 ( 2x MG34 AA)
+Horch 108 with Flak38 portee
+Horch 108A 
+Horch 108A (window up)
+Horch 108A (all windows up)
+Horch 108A (closed)
+Horch 108A with zwillinglafette 38 ( 2x MG34 AA)
+Steyr 1500
+Steyr 1500 (window up)
+Steyr 1500 (all windows up)
+Steyr 1500 (closed)
+Steyr 1500 with zwillinglafette 38 ( 2x MG34 AA)
+Steyr 1500 Kommandeurwagen
+Steyr 1500 Kommandeurwagen (all windows up)
+Steyr 1500 Kommandeurwagen (closed)
+Flak38
+Flak38 with shields
+Flak38 trailer (Sd.Ah. 51), loaded and unloaded
+Flak bases: FOW style (with recesses & plain), minimum sized rectangular base, no baseplate, no baseplate simple.
+
+Vehicles printed sitting on their wheels, guns printed with gun horizontal.
+Contrary to usual practice, clear the supports from the outsides of the wheels first. 
+Take care around the front bumpers.
+Cut down on each side of the Flak trunnion rings before pulling off the supports.
+Cut down on each side of raised windows before removing supports.
+
+Horch 108 portee designed as a click-in insert so that the model can be used as either a portee or normal personnel car.
+Horch simple versions have solid windscreens.
+Steyr simple versions have solid engine protection grille and solid windscreens.
+
+Flak 38 simple is intended for modifying existing vehicles to flak configuration by gluing it into the vehicle's bed.
+Flak models come with two different length spigots, short for the plain bases/trailer. 
+(Short can actually be used for evertyhing if desired since the gun is well balanced.)
